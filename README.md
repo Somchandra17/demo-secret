@@ -1,4 +1,4 @@
-# Detailed Breakdown of Secrets in Each File
+# Detailed Breakdown of Secrets in Each File (Total 43)
 
 ## config.js - 6 Secrets
 - API_KEY
